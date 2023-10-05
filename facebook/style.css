@@ -1,0 +1,78 @@
+body{
+    background-color: #f0f2f5;
+}
+.div1{
+    width: 50%;
+}
+
+.logo{
+    margin-top: 168px;
+    height: 100%;
+    width: 320px;
+    margin-bottom: -35px;
+    padding-left: 149px;
+}
+.text{
+    padding-left: 175.5px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 28px;
+}
+.div2{
+    top: 22%;
+    position: absolute;
+    width: 50%;
+    left: 56%;
+}
+form{
+    border: 1px;
+    border-radius: 10px;
+}
+.frm{
+    background-color: white;
+    padding: 15px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    position: absolute;
+}
+input{
+    color: #dddfe2;
+    font-size: 16px;
+    border: 1px solid #dddfe2;
+    border-radius: 7px;
+    padding: 16px ;
+}
+.button1{
+    color: white;
+    width: 365px;
+    border-radius: 6px;
+    font-family: 20px Helvetica, sans-serif;
+    padding: 13px;
+    background-color: #1877f2;
+    font-size: 20px;
+    border: none;
+}
+.link{
+    font-family: Helvetica, sans-serif, inherit;
+    margin: 15px;
+    color: #1877f2;
+}
+.button2{
+    font-family:  Helvetica, sans-serif;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 85px;
+    /* margin: 20px; */
+    color: white;
+    background-color: #42b72a;
+    border-radius: 6px;
+    border: none;
+    padding: 12px;
+    font-size: 20px;
+}
+p{
+    font-size: 15px;
+    font-family: Helvetica, sans-serif;
+    position: absolute;
+    left: 59%;
+    top: 83%;
+}
